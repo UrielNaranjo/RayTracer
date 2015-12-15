@@ -4,10 +4,10 @@ I only implemented the ray_tracer.cpp file. All other files were provided.
 Flat shading, phong shading, shadows, and reflections are implemented.
 Each Test case tests different parts. 
 ###Test
-* 1: Flat Shading
-* 2: Phong Shading 
-* 3: Shadows
-* 4: Reflections
+ 1: Flat Shading
+ 2: Phong Shading 
+ 3: Shadows
+ 4: Reflections
 
 ## Installation 
 
